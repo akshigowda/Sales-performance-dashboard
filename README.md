@@ -15,3 +15,7 @@ Top 10 Products by Quantity Sold: Insights into popular products by sales volume
 Sales by Top 10 Cities: A geographic analysis of sales performance, showing the cities contributing the most to overall revenue. This allows for the identification of high-performing regions and potential growth areas.
 
 This dashboard combines intuitive visualizations and data analytics to support better resource allocation, targeted marketing campaigns, and improved operational efficiency.
+
+##dashboard
+![Screenshot 2025-04-03 072104](https://github.com/user-attachments/assets/650a3b1d-dc6e-4621-87f2-196297498214)
+
