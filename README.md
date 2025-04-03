@@ -1,9 +1,9 @@
 # Sales-performance-dashboard
 Analyzed revenue trends, identified top 10 products sold by profit ,top 10 products By quantity Sold and Sales By top 10 cities
-Objective:
+#Objective:
 The primary objective of this project is to design and develop a comprehensive sales performance dashboard that provides actionable insights into revenue trends, top-performing products, and regional sales performance. The dashboard aims to assist stakeholders in data-driven decision-making to optimize sales strategies and improve overall business performance.
 
-Description:
+#Description:
 This project involves analyzing sales data to uncover key insights into business performance. The dashboard highlights:
 
 Revenue Trends: A detailed view of how revenue has evolved over time, helping stakeholders identify patterns and seasonal variations.
